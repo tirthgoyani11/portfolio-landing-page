@@ -2,9 +2,7 @@
 
 A modern, responsive developer portfolio website built with React and Tailwind CSS. Showcase your projects, experience, and skills with this elegant and fully customizable portfolio template.
 
-[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3+-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3+-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## ✨ Features
 
@@ -23,6 +21,7 @@ A modern, responsive developer portfolio website built with React and Tailwind C
 ### Prerequisites
 
 Make sure you have the following installed:
+
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
@@ -61,7 +60,7 @@ Update your personal information in `src/config/portfolio.js`:
 export const portfolioConfig = {
   name: "Tirth Goyani",
   title: "Full Stack Developer",
-  email: "contact@tirthgoyani.dev",
+  email: "tirthgoyani11@gmail.com",
   website: "https://tirthgoyani.dev",
   social: {
     linkedin: "https://linkedin.com/in/tirthgoyani",
@@ -82,6 +81,7 @@ export const portfolioConfig = {
 ### Styling
 
 The project uses Tailwind CSS for styling. You can:
+
 - Modify the color scheme in `tailwind.config.js`
 - Add custom CSS in `src/styles/globals.css`
 - Update component styles directly in JSX files
@@ -137,13 +137,13 @@ The portfolio includes the following sections:
 ### Vercel (Recommended)
 
 1. Push your code to GitHub
-2. Visit [Vercel](https://vercel.com) and import your repository
+2. Visit [Vercel](https://vercel.com/) and import your repository
 3. Deploy with zero configuration
 
 ### Netlify
 
 1. Build the project: `npm run build`
-2. Drag and drop the `dist` folder to [Netlify](https://netlify.com)
+2. Drag and drop the `dist` folder to [Netlify](https://netlify.com/)
 
 ### GitHub Pages
 
@@ -183,8 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you like this project, please give it a ⭐ on GitHub!
 
-For support, email contact@tirthgoyani.dev or create an issue on GitHub.
+For support, email tirthgoyani11@gmail.com or create an issue on GitHub.
 
 ---
-
 **Built with ❤️ by [Tirth Goyani](https://tirthgoyani.dev)**
